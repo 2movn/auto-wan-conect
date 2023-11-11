@@ -1,3 +1,5 @@
+![auto-wan-connect](https://github.com/2movn/auto-wan-conect/blob/main/auto-wan-conect.png)
+
 # Cài đặt và kiểm tra
 - Đầu tiên các bạn cần điền đầu đủ các cài đặt và thông tin PPOE. Mạng đã được Bridge từ nhà mạng hoặc tự Bridge Modem qua công Lan phù hợp.
 - Địa chỉ mặc định `127.0.0.1:6996`
